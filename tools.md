@@ -1,30 +1,30 @@
-- netstat (net-tools)
-- lsof
-- gedit
-- auditd
-- aureport
-- ausearch
-- arp
-- ss
-- grep
-- xclip
-- nmap
-- rkhunter
-- PhotoRec
-- TestDisk
-- Foremost
-- Scalpel
-- Bulk Extractor
-- Binwalk
-- Android Studio
-- ADB (Android Debug Bridge)
-- JADX
-- APKTool
-- Burp Suite
-- Frida
-- MobSF
-- Docker
-- Android Emulator
-- Logcat
-- Wireshark
-- Tshark
+- netstat (net-tools) - Melihat koneksi jaringan, port, dan layanan yang sedang aktif pada sistem.
+- lsof - Menampilkan file yang sedang digunakan oleh proses yang berjalan.
+- gedit - Editor teks sederhana untuk membuka dan mengedit file di Linux.
+- auditd - Mencatat aktivitas penting sistem untuk keperluan audit dan investigasi.
+- aureport - Menampilkan laporan ringkas dari data audit yang dikumpulkan auditd.
+- ausearch - Mencari aktivitas atau kejadian tertentu dalam log audit Linux.
+- arp - Menampilkan hubungan antara alamat IP dan alamat MAC di jaringan lokal.
+- ss - Menampilkan informasi koneksi jaringan dan port yang aktif dengan cepat.
+- grep - Mencari kata atau pola tertentu di dalam file atau output command.
+- xclip - Melihat atau mengelola isi clipboard (copy-paste) di Linux.
+- nmap - Memindai port dan layanan yang terbuka pada suatu komputer atau server.
+- rkhunter - Mendeteksi rootkit, malware, dan indikasi kompromi pada sistem Linux.
+- PhotoRec - Memulihkan file yang terhapus atau hilang dari disk image dan memory dump.
+- TestDisk - Memperbaiki partisi yang rusak dan membantu pemulihan data.
+- Foremost - Melakukan file carving untuk memulihkan file berdasarkan format filenya.
+- Scalpel - Tool file carving cepat untuk menemukan file yang terhapus dari image forensik.
+- Bulk Extractor - Mengekstrak artefak seperti email, URL, dan kata sandi dari file forensik.
+- Binwalk - Mencari dan mengekstrak file tersembunyi yang tertanam di dalam file lain.
+- Android Studio - Lingkungan resmi untuk membuat dan menguji aplikasi Android.
+- ADB (Android Debug Bridge) - Menghubungkan komputer dengan perangkat Android untuk administrasi dan analisis.
+- JADX - Membuka dan mengubah APK Android menjadi source code yang mudah dibaca.
+- APKTool - Membongkar dan memodifikasi struktur internal aplikasi Android (APK).
+- Burp Suite - Menganalisis dan memantau lalu lintas komunikasi aplikasi web atau mobile.
+- Frida - Memantau dan memodifikasi perilaku aplikasi saat sedang berjalan.
+- MobSF - Menganalisis keamanan aplikasi mobile secara otomatis.
+- Docker - Menjalankan aplikasi dalam lingkungan terisolasi yang mudah dipindahkan dan dikelola.
+- Android Emulator - Menjalankan perangkat Android virtual di komputer.
+- Logcat - Menampilkan log dan aktivitas internal aplikasi Android secara real-time.
+- Wireshark - Menganalisis lalu lintas jaringan secara visual dan detail.
+- Tshark - Versi command line dari Wireshark untuk analisis paket jaringan melalui terminal.
