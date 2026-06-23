@@ -1,0 +1,30 @@
+- netstat (net-tools)
+- lsof
+- gedit
+- auditd
+- aureport
+- ausearch
+- arp
+- ss
+- grep
+- xclip
+- nmap
+- rkhunter
+- PhotoRec
+- TestDisk
+- Foremost
+- Scalpel
+- Bulk Extractor
+- Binwalk
+- Android Studio
+- ADB (Android Debug Bridge)
+- JADX
+- APKTool
+- Burp Suite
+- Frida
+- MobSF
+- Docker
+- Android Emulator
+- Logcat
+- Wireshark
+- Tshark
